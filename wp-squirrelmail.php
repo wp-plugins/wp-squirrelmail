@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: wp-squirrelmail.
+ * Plugin Name: wp-squirrelmail
  * Plugin URI: https://wordpress.org/plugins/wp-squirrelmail/
  * Description: Connect to SquirrelMail from withiin WordPress.
  * Version: 1.0
