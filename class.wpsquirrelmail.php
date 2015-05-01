@@ -116,7 +116,7 @@ class WPSquirrelMail {
             $data['content'] = $loginForm;
             $data['password'] = $decrypt->getDecrypt( $password );
             $data['autologin'] = $autologin;
-            $data['css'] = plugins_url( "wpsquirrelmail/css/bootstrap.min.css" );
+            $data['css'] = plugins_url( "wp-squirrelmail/css/bootstrap.min.css" );
             
             wp_send_json( $data );
             
