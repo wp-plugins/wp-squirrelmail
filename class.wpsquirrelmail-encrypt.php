@@ -66,7 +66,7 @@ class WPSquirrelMail_Encrypt {
     
     private function getKey() {
         if(!$this->key) {
-            $this->setKey('bcb04b7e103a0cd8b54763051cef08bc55abe029fdebae5e1d417e2ffb2a00a3');
+            $this->setKey('bcb04b7e103a0cd8b54763051cef08b55cabe029fdebae5e1d417e2ffb2a00a3');
         }
         return $this->key;
     }
